@@ -41,9 +41,9 @@ README.md
 Data File:
   
   forestarea.csv
-The ui.R and server.R are the code for the shiny application: https://vibhutesh.shinyapps.io/Vibhutesh_shiny_app/
+The ui.R and server.R are the code for the shiny application: https://ankitsh.shinyapps.io/myapp/
   
   Application Details:
   
   The shiny application is deployed on ShinyApps.io server at:
-  Git repository at: https://github.com/vibhutesh/dataproducts
+  Git repository at: https://github.com/ankitsharmagit/Shiny-Application
