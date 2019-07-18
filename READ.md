@@ -41,7 +41,7 @@ README.md
 Data File:
   
   forestarea.csv
-The ui.R and server.R are the code for the shiny application: https://ankitsh.shinyapps.io/myapp/
+The ui.R and server.R are the code for the shiny application: https://ankitsh.shinyapps.io/Shiny-Application-master/
   
   Application Details:
   
